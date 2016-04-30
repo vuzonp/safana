@@ -1,0 +1,14 @@
+// Settings of the Safana project
+
+// Typography
+//------------------------------------------------------------------------------
+//-- typo:start --//
+$font-mono: "Fira Mono", "Consolas", "Segoe UI Mono", "Courier New", "Liberation Mono", monospace;
+$font-sans: "Fira Sans", "Calibri", "Lucida Grande", "Lucida Sans", "DejaVu Sans", Arial, sans-serif;
+$font-serif: "Hoefler Text", "Cambria", Georgia, "DejaVu Serif", serif;
+$font-symbol: "Segoe UI Symbol", "Symbola", "DejaVu Sans", "Lucida Sans", "Arial Unicode MS", "Dingbats", "GNU Unifont";
+
+$font-hn: $font-sans;
+$font-rtf: $font-serif;
+$font-small: Verdana, Tahoma, sans-serif;
+//-- typo:end --//

@@ -1,0 +1,29 @@
+{
+  "name": "safana",
+  "version": "0.1.0",
+  "description": "My own frontend components",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vuzonp/safana.git"
+  },
+  "keywords": [
+    "css",
+    "components"
+  ],
+  "author": "Thomas Girard <hello@thomasgirard.fr> (http://www.thomasgirard.fr/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vuzonp/safana/issues"
+  },
+  "homepage": "https://github.com/vuzonp/safana#readme",
+  "private": true,
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-sass": "^2.3.1",
+    "gulp-sourcemaps": "^2.0.0-alpha"
+  }
+}
